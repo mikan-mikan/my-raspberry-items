@@ -8,3 +8,8 @@
 ## memo
 - ⭕️ wordpress
 - ❌ GROWI (memory?)
+
+## link
+忘れそうなので
+- [Docker導入メモ](../md/3B_DOCKER.md)
+- [メモリ不足解消](../md/SWAP.md)
